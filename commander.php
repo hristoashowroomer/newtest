@@ -1,5 +1,4 @@
 <?php
-	include ("kernel/main.php");
 	include ("_affiche_vignette.php");
 
 	# Pas loggué...
